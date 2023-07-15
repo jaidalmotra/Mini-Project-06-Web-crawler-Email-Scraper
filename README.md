@@ -1,1 +1,1 @@
-# Mini-Project-06-Web-crawler-Email-Scraper-
+# Mini-Project-06-Web-crawler-Email-Scraper
